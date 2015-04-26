@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/MetaioSDK/MetaioSDK.iml" filepath="$PROJECT_DIR$/MetaioSDK/MetaioSDK.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MetaioSDK_Examples/MetaioSDK_Examples.iml" filepath="$PROJECT_DIR$/MetaioSDK_Examples/MetaioSDK_Examples.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TripTeacher3.iml" filepath="$PROJECT_DIR$/TripTeacher3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+    </modules>
+  </component>
+</project>

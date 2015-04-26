@@ -1,0 +1,34 @@
+<resources>
+    <string name="app_name">Trip Teacher</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+
+    <!--Loginpagina-->
+    <string name="loginNameLabelText">Inlognaam</string>
+    <string name="passwordLabelText">Wachtwoord</string>
+    <string name="loginButtonText">Log in</string>
+
+    <!--Activities-->
+    <string name="toolbar_title">Login</string>
+    <string name="title_activity_home">HomeActivity</string>
+    <string name="title_activity_camera">CameraActivity</string>
+    <string name="title_activity_point_of_interest">PointOfInterestActivity</string>
+    <string name="title_activity_arel_view">ARELViewActivity</string>
+    <string name="title_activity_model">ModelActivity</string>
+
+    <!--POI - Opdrachtenpagina-->
+    <string name="assignment_assignment_one">Opdracht 1</string>
+    <string name="assignment_assignment_one_text">Kijk op de zijkant van de Eiffeltoren en noteer wat er op staat</string>
+
+    <string name="assignment_assignment_two">Opdracht 2</string>
+    <string name="assignment_assignment_two_text">Zoek uit wat er vroeger op de plaats van de Eiffeltoren stond</string>
+
+    <string name="assignment_assignment_three">Opdracht 3</string>
+    <string name="assignment_assignment_three_text">Zoek uit waarom dit oude gebouw zo belangrijk was</string>
+
+
+    <!--POI - Modelpagina-->
+    <string name="model_explanation_header">Model</string>
+    <string name="model_explanation_text">Het model werkt hetzelfde als de camera met de markers. Als je op de knop hieronder klikt, start de camera en krijg je een doorzichtige omtrek te zien. Deze omtrek moet je door middel van de camera op het echte object leggen.</string>
+    <string name="model_button_text">Ga naar model</string>
+</resources>

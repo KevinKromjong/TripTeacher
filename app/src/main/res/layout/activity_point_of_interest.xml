@@ -1,0 +1,263 @@
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="wrap_content">
+
+    <RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+        xmlns:tools="http://schemas.android.com/tools"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+
+        <!--<include-->
+        <!--android:id="@+id/tool_bar"-->
+        <!--layout="@layout/tool_bar">-->
+        <!--</include>-->
+
+        <TabHost
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:id="@+id/tabHost"
+            android:layout_alignParentTop="true"
+            android:layout_alignParentStart="true">
+
+
+            <TabWidget
+                android:id="@android:id/tabs"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content" />
+
+            <FrameLayout
+                android:id="@android:id/tabcontent"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent">
+
+                <!--**********-->
+                <!--INFORMATIE-->
+                <!--**********-->
+
+
+                <LinearLayout
+                    android:id="@+id/tab1"
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:orientation="vertical"
+                    android:weightSum="1">
+
+                    <RelativeLayout
+                        android:layout_height="match_parent"
+                        android:layout_width="match_parent">
+
+                        <ImageView
+                            android:layout_width="match_parent"
+                            android:layout_height="300dp"
+                            android:layout_marginTop="41dp"
+                            android:id="@+id/header_image"
+                            android:layout_gravity="center_horizontal"
+                            />
+
+                        <ImageView
+                            android:layout_width="match_parent"
+                            android:layout_height="320dp"
+                            android:layout_marginTop="105dp"
+                            android:layout_gravity="center_horizontal"
+                            android:src="@drawable/gradient"
+                            />
+
+                        <TextView
+                            android:layout_alignBottom="@+id/header_image"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:layout_marginLeft="25dp"
+                            android:layout_marginBottom="60dp"
+                            android:textSize="25sp"
+                            android:textStyle="bold"
+                            android:textColor="#FFF"
+                            android:fontFamily="Roboto"
+                            android:layout_marginTop="200dp"
+                            android:id="@+id/header_title"
+                            android:layout_gravity="center_horizontal" />
+
+                        <TextView
+                            android:layout_alignBottom="@+id/header_image"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:layout_marginTop="200dp"
+                            android:layout_marginLeft="25dp"
+                            android:layout_marginBottom="40dp"
+                            android:textSize="16sp"
+                            android:textColor="#FFF"
+                            android:fontFamily="Roboto"
+                            android:id="@+id/header_subtitle"
+                            android:layout_gravity="center_horizontal" />
+
+                        <TextView
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:layout_marginTop="370dp"
+                            android:layout_marginLeft="25dp"
+                            android:textSize="22sp"
+                            android:textStyle="bold"
+                            android:textColor="#00B9E6"
+                            android:fontFamily="Roboto"
+                            android:id="@+id/article_title"
+                            android:layout_gravity="center_horizontal" />
+
+                        <TextView
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:layout_marginTop="420dp"
+                            android:layout_marginLeft="25dp"
+                            android:textSize="16sp"
+                            android:textColor="#5E5E5E"
+                            android:fontFamily="Roboto"
+                            android:id="@+id/article_heading"
+                            android:layout_gravity="center_horizontal" />
+
+                        <TextView
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:layout_marginTop="440dp"
+                            android:layout_marginLeft="25dp"
+                            android:layout_marginRight="25dp"
+                            android:layout_marginBottom="10dp"
+                            android:lineSpacingExtra="4sp"
+                            android:textSize="16sp"
+                            android:textColor="#000"
+                            android:fontFamily="Roboto"
+                            android:id="@+id/article_text"
+                            android:layout_gravity="center_horizontal" />
+
+                    </RelativeLayout>
+
+                </LinearLayout>
+
+                <!--**********-->
+                <!--OPDRACHT-->
+                <!--**********-->
+
+                <LinearLayout
+                    android:id="@+id/tab2"
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:orientation="vertical">
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_marginLeft="25dp"
+                        android:layout_marginTop="100dp"
+                        android:textSize="20sp"
+                        android:text="@string/assignment_assignment_one"
+                        android:textStyle="bold"
+                        android:textColor="#00B9E6"
+                        android:fontFamily="Roboto" />
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_marginLeft="25dp"
+                        android:layout_marginRight="25dp"
+                        android:textSize="18sp"
+                        android:text="@string/assignment_assignment_one_text"
+                        android:textColor="#000"
+                        android:fontFamily="Roboto"/>
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_marginLeft="25dp"
+                        android:layout_marginTop="25dp"
+                        android:textSize="20sp"
+                        android:text="@string/assignment_assignment_two"
+                        android:textStyle="bold"
+                        android:textColor="#00B9E6"
+                        android:fontFamily="Roboto" />
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_marginLeft="25dp"
+                        android:layout_marginRight="25dp"
+                        android:textSize="18sp"
+                        android:text="@string/assignment_assignment_two_text"
+                        android:textColor="#000"
+                        android:fontFamily="Roboto"/>
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_marginTop="25dp"
+                        android:layout_marginLeft="25dp"
+                        android:textSize="20sp"
+                        android:text="@string/assignment_assignment_three"
+                        android:textStyle="bold"
+                        android:textColor="#00B9E6"
+                        android:fontFamily="Roboto" />
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_marginLeft="25dp"
+                        android:layout_marginRight="25dp"
+                        android:textSize="18sp"
+                        android:text="@string/assignment_assignment_three_text"
+                        android:textColor="#000"
+                        android:fontFamily="Roboto"/>
+
+                </LinearLayout>
+
+
+                <!--**********-->
+                <!--**MODEL***-->
+                <!--**********-->
+
+
+                <LinearLayout
+                    android:id="@+id/tab3"
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:orientation="vertical"
+                    android:weightSum="1">
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_marginTop="120dp"
+                        android:textSize="22sp"
+                        android:text="@string/model_explanation_header"
+                        android:textStyle="bold"
+                        android:textColor="#00B9E6"
+                        android:fontFamily="Roboto"
+                        android:id="@+id/model_explanation_title"
+                        android:layout_gravity="center_horizontal" />
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_marginTop="30dp"
+                        android:layout_marginLeft="25dp"
+                        android:layout_marginRight="25dp"
+                        android:textSize="16sp"
+                        android:text="@string/model_explanation_text"
+                        android:textColor="#000"
+                        android:fontFamily="Roboto"
+                        android:id="@+id/model_explanation_text"
+                        android:layout_gravity="center_horizontal" />
+
+                    <Button
+                        android:id="@+id/model_button"
+                        android:layout_marginTop="30dp"
+                        android:layout_width="300dp"
+                        android:layout_height="match_parent"
+                        android:layout_gravity="center_horizontal"
+                        android:text="@string/model_button_text" />
+
+                </LinearLayout>
+
+            </FrameLayout>
+
+        </TabHost>
+
+    </RelativeLayout>
+
+</ScrollView>

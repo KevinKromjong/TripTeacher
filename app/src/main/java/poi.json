@@ -1,0 +1,96 @@
+{
+  "pointsOfInterests": [
+    {
+      "name": "bastille",
+      "information": {
+        "header": {},
+        "article": {
+          "title": "Bestorming van de Bastille",
+          "heading": "14 juli 1789",
+          "text": "De Bestorming van de Bastille in Parijs, op 14 juli 1789, wordt vaak gezien als het symbolische beginpunt van de Franse Revolutie. Hoewel er ten tijde van de bestorming maar zeven gevangenen aanwezig waren in de Bastille Saint-Antoine, een middeleeuwse fort dat als gevangenis werd gebruikt, werd de verovering ervan een symbool voor de Revolutie. In 1790 vond het FÃªte de la FÃ©dÃ©ration (Feest van de Federatie) plaats op dezelfde datum,[1] om samen te vallen met de eerste verjaardag van deze gebeurtenis. In 1880 werd de datum van 14 juli (Frans: quatorze juillet) uitgekozen om deFranse nationale feestdag te vieren."
+        }
+      },
+      "assignment": [
+        {
+          "title": "Opdracht 1",
+          "heading": "Onderzoek dit",
+          "assignment": "Onderzoek eerst dit, doe vervolgens dat en kijk of je dit en dat kan ontdekken"
+        },
+        {
+          "title": "Opdracht 2",
+          "heading": "Onderzoek dit",
+          "assignment": "Onderzoek eerst dit, doe vervolgens dat en kijk of je dit en dat kan ontdekken"
+        },
+        {
+          "title": "Opdracht 3",
+          "heading": "Onderzoek dit",
+          "assignment": "Onderzoek eerst dit, doe vervolgens dat en kijk of je dit en dat kan ontdekken"
+        }
+      ]
+    },
+    {
+      "name": "sacrecoeur",
+      "information": {
+        "header": {
+          "title": "Sacre Coueur",
+          "subtitle": "Grote kerk",
+          "image": "http://mostbeautifulplacesintheworld.org/wp-content/uploads/2014/04/sacre-coeur-front.jpg"
+        },
+        "article": {
+          "title": "58.000 doden en een kerk",
+          "heading": "Frans-Duitse Oorlog",
+          "text": "De Basilique du SacrÃ©-CÅ“ur (Nederlands: Heilig-Hartbasiliek) is een basiliek in Parijs. Hij ligt op de heuvel Montmartre in het 18e arrondissement in Parijs en is gewijd aan de Heilig Hartverering. De kerk valt vooral op door haar felwitte uiterlijk, en prominente ligging op een heuvel. Om bij de kerk te komen, kan men 222 treden klimmen of de Funiculaire de Montmartre (kabelbaan) nemen. Boven aangekomen heeft men uitzicht over een groot deel van Parijs."
+        }
+      },
+      "assignment": [
+        {
+          "title": "Opdracht 1",
+          "heading": "Onderzoek dit",
+          "assignment": "Onderzoek eerst dit, doe vervolgens dat en kijk of je dit en dat kan ontdekken"
+        },
+        {
+          "title": "Opdracht 2",
+          "heading": "Onderzoek dit",
+          "assignment": "Onderzoek eerst dit, doe vervolgens dat en kijk of je dit en dat kan ontdekken"
+        },
+        {
+          "title": "Opdracht 3",
+          "heading": "Onderzoek dit",
+          "assignment": "Onderzoek eerst dit, doe vervolgens dat en kijk of je dit en dat kan ontdekken"
+        }
+      ]
+    },
+    {
+      "name": "eiffeltower",
+      "information": {
+        "header": {
+          "title": "Sacre Coueur",
+          "subtitle": "Grote kerk",
+          "image": "http://mostbeautifulplacesintheworld.org/wp-content/uploads/2014/04/sacre-coeur-front.jpg"
+        },
+        "article": {
+          "title": "58.000 doden en een kerk",
+          "heading": "Frans-Duitse Oorlog",
+          "text": "De Basilique du SacrÃ©-CÅ“ur (Nederlands: Heilig-Hartbasiliek) is een basiliek in Parijs. Hij ligt op de heuvel Montmartre in het 18e arrondissement in Parijs en is gewijd aan de Heilig Hartverering. De kerk valt vooral op door haar felwitte uiterlijk, en prominente ligging op een heuvel. Om bij de kerk te komen, kan men 222 treden klimmen of de Funiculaire de Montmartre (kabelbaan) nemen. Boven aangekomen heeft men uitzicht over een groot deel van Parijs."
+        }
+      },
+      "assigment": [
+        {
+          "title": "Opdracht 1",
+          "heading": "Onderzoek dit",
+          "assignment": "Onderzoek eerst dit, doe vervolgens dat en kijk of je dit en dat kan ontdekken"
+        },
+        {
+          "title": "Opdracht 2",
+          "heading": "Onderzoek dit",
+          "assignment": "Onderzoek eerst dit, doe vervolgens dat en kijk of je dit en dat kan ontdekken"
+        },
+        {
+          "title": "Opdracht 3",
+          "heading": "Onderzoek dit",
+          "assignment": "Onderzoek eerst dit, doe vervolgens dat en kijk of je dit en dat kan ontdekken"
+        }
+      ]
+    }
+  ]
+}

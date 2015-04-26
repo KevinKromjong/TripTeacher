@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<results trackingurl="html/resources/TrackingConfig_ad5c52fcb26a6596c5dd7ff2721d0a8b.zip">
+  <arel><![CDATA[html/index.html?04a73a3ae916df1c7b5fc8a0492b60e8]]></arel>
+  <object id="button5">
+    <title><![CDATA[ReloadTrackingConfigurationButton]]></title>
+    <assets3d>
+      <model><![CDATA[html/resources/a7c022b1991b51dc36b79cf12d702b65/a7c022b1991b51dc36b79cf12d702b65.zip]]></model>
+      <transform>
+        <translation>
+          <x>1.4151248932</x>
+          <y>39.3771514893</y>
+          <z>0.0</z>
+        </translation>
+        <rotation type="eulerdeg">
+          <x>0.0</x>
+          <y>0.0</y>
+          <z>0.0</z>
+        </rotation>
+        <scale>
+          <x>0.3600000143</x>
+          <y>0.3600000143</y>
+          <z>0.3600000143</z>
+        </scale>
+      </transform>
+      <properties>
+        <coordinatesystemid>-1</coordinatesystemid>
+        <screenanchor flags="4">20</screenanchor>
+      </properties>
+    </assets3d>
+    <viewparameters>
+      <visibility>
+        <liveview>false</liveview>
+      </visibility>
+    </viewparameters>
+  </object>
+  <object id="video2">
+    <title><![CDATA[Eiffel Tower Construction Time Lapse]]></title>
+    <assets3d>
+      <movie><![CDATA[html/resources/383e519bff07b7b3ea356a15401aaba4/videoGood.3g2]]></movie>
+      <transform>
+        <translation>
+          <x>11.1431274414</x>
+          <y>0.0</y>
+          <z>0.0</z>
+        </translation>
+        <rotation type="eulerdeg">
+          <x>90.1172409058</x>
+          <y>-0.4158391953</y>
+          <z>74.2579650879</z>
+        </rotation>
+        <scale>
+          <x>0.7981792092</x>
+          <y>0.7981792092</y>
+          <z>1.0</z>
+        </scale>
+      </transform>
+      <properties>
+        <coordinatesystemid>1</coordinatesystemid>
+      </properties>
+    </assets3d>
+    <viewparameters>
+      <visibility>
+        <liveview>false</liveview>
+      </visibility>
+    </viewparameters>
+  </object>
+  <object id="contourTracking">
+    <title><![CDATA[mesh]]></title>
+    <assets3d>
+      <model><![CDATA[html/resources/2610a0fd58e6f08ac16429313f7a5e02/4ed5581b42e2dec18de163a93ca35998.zip]]></model>
+      <transform>
+        <translation>
+          <x>0.0</x>
+          <y>0.0</y>
+          <z>0.0</z>
+        </translation>
+        <rotation type="eulerdeg">
+          <x>0.0</x>
+          <y>0.0</y>
+          <z>0.0</z>
+        </rotation>
+        <scale>
+          <x>1.0</x>
+          <y>1.0</y>
+          <z>1.0</z>
+        </scale>
+      </transform>
+      <properties>
+        <transparency>0.5</transparency>
+        <coordinatesystemid>2</coordinatesystemid>
+      </properties>
+    </assets3d>
+    <viewparameters/>
+  </object>
+</results>
